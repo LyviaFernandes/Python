@@ -2,6 +2,6 @@
 
 print('Inicio..\n')
 
-for controle in range (10):
+for contador in range (10):
     texto = 'Repetição de número' + str(contador)
     print(texto)
